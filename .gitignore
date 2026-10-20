@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local datasets (do not upload unless permitted)
+Data/*.csv
