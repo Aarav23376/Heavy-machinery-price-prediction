@@ -213,7 +213,7 @@ This project provided practical experience with:
 
 ## Author
 
-**aarav Gupta**
+**Aarav Gupta**
 
 B.Tech, Electrical Engineering — Maulana Azad National Institute of Technology (MANIT), Bhopal
 
