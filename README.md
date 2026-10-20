@@ -126,7 +126,7 @@ The `Data/` directory contains the input CSV files used by the notebook. The not
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<Aarav23376>/Heavy-machinery-price-prediction.git
+git clone https://github.com/Aarav23376/Heavy-machinery-price-prediction
 cd heavy-machinery-price-prediction
 ```
 
